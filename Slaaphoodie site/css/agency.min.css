@@ -31,7 +31,7 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+    font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
 }
 
 .page-section {
@@ -186,7 +186,7 @@ img::-moz-selection {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(../img/hoodie/FlorisBG2.JPG);
+    background-image: url(../img/interactie/IMG_0825.JPG);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -219,13 +219,13 @@ header.masthead .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
     margin-bottom: 25px;
-    font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+    font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
 }
 
 @media (min-width:768px) {
     header.masthead .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px
+        padding-top: 150px;
+        padding-bottom: 150px
     }
 
     header.masthead .intro-text .intro-lead-in {
@@ -241,7 +241,7 @@ header.masthead .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
-        font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+        font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
     }
 }
 
@@ -720,4 +720,44 @@ ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
     background-color: #fed136
+}
+
+#rafLogo {
+    height: 250px;
+}
+
+#ventielFoto {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.fa-stack {
+    height: 2.5em;
+}
+
+#videoRAF {
+    height: 641px;
+}
+
+.interestedTekst {
+    color: white !important;
+}
+
+.col-md-6 {
+    margin: 0px auto;
+}
+
+.productFoto {
+    height: 700px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.blaasFoto {
+    object-position: 0% 80%;
+}
+
+.fotoSection {
+    padding-bottom: 0px;
 }
